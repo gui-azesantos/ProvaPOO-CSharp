@@ -1,0 +1,11 @@
+C:\Users\GEDO\source\repos\ProvaPOO.Parte2\ProvaPOO.Parte2\bin\Debug\netcoreapp3.1\ProvaPOO.Parte2.exe
+C:\Users\GEDO\source\repos\ProvaPOO.Parte2\ProvaPOO.Parte2\bin\Debug\netcoreapp3.1\ProvaPOO.Parte2.deps.json
+C:\Users\GEDO\source\repos\ProvaPOO.Parte2\ProvaPOO.Parte2\bin\Debug\netcoreapp3.1\ProvaPOO.Parte2.runtimeconfig.json
+C:\Users\GEDO\source\repos\ProvaPOO.Parte2\ProvaPOO.Parte2\bin\Debug\netcoreapp3.1\ProvaPOO.Parte2.runtimeconfig.dev.json
+C:\Users\GEDO\source\repos\ProvaPOO.Parte2\ProvaPOO.Parte2\bin\Debug\netcoreapp3.1\ProvaPOO.Parte2.dll
+C:\Users\GEDO\source\repos\ProvaPOO.Parte2\ProvaPOO.Parte2\bin\Debug\netcoreapp3.1\ProvaPOO.Parte2.pdb
+C:\Users\GEDO\source\repos\ProvaPOO.Parte2\ProvaPOO.Parte2\obj\Debug\netcoreapp3.1\ProvaPOO.Parte2.AssemblyInfoInputs.cache
+C:\Users\GEDO\source\repos\ProvaPOO.Parte2\ProvaPOO.Parte2\obj\Debug\netcoreapp3.1\ProvaPOO.Parte2.AssemblyInfo.cs
+C:\Users\GEDO\source\repos\ProvaPOO.Parte2\ProvaPOO.Parte2\obj\Debug\netcoreapp3.1\ProvaPOO.Parte2.dll
+C:\Users\GEDO\source\repos\ProvaPOO.Parte2\ProvaPOO.Parte2\obj\Debug\netcoreapp3.1\ProvaPOO.Parte2.pdb
+C:\Users\GEDO\source\repos\ProvaPOO.Parte2\ProvaPOO.Parte2\obj\Debug\netcoreapp3.1\ProvaPOO.Parte2.csprojAssemblyReference.cache

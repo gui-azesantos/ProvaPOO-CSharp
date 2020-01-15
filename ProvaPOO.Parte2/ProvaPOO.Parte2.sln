@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaPOO.Parte2", "ProvaPOO.Parte2\ProvaPOO.Parte2.csproj", "{DADF1792-2065-48E0-B3FC-E4F2122CD201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DADF1792-2065-48E0-B3FC-E4F2122CD201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DADF1792-2065-48E0-B3FC-E4F2122CD201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DADF1792-2065-48E0-B3FC-E4F2122CD201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DADF1792-2065-48E0-B3FC-E4F2122CD201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F58FD2C-C1CB-47E7-B542-86019E507062}
+	EndGlobalSection
+EndGlobal
